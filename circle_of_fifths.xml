@@ -1,0 +1,282 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="jump" id="}L@kgh:qxm/;BemmfZb-" x="-86" y="-283">
+    <value name="note">
+      <block type="position" id="!Q6(X9nD=GvObJW=pnyC">
+        <value name="letter">
+          <block type="letter" id="$4yM]HQ,@!iYi2n}r]C^">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="=GZ?xStaqz{AiOcBY3b7">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="octave">
+          <block type="integer" id="dlP`u?Y6Ve96Mks#loN_">
+            <field name="value">4</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="reroot" id="f3227pzGI.yy/VGA//$I">
+        <next>
+          <block type="ditto" id="/a0BQX(wehN/5%qXWAdq">
+            <value name="count">
+              <block type="integer" id="0YXWRToilxqy$J1#H`=z">
+                <field name="value">6</field>
+              </block>
+            </value>
+            <statement name="body">
+              <block type="ditto" id="|m%lDcTS?UhQ-^=ondOU">
+                <value name="count">
+                  <block type="integer" id="^r?s:{S;}-=A~;Z5[$#%">
+                    <field name="value">2</field>
+                  </block>
+                </value>
+                <statement name="body">
+                  <block type="play" id="n!Bz+YGFGHET:+M~!9*z">
+                    <value name="note">
+                      <block type="offset" id="s%U`/NL9bU8/ZUTO:.aE">
+                        <field name="value">+0</field>
+                        <field name="unit">halfsteps</field>
+                      </block>
+                    </value>
+                    <value name="duration">
+                      <block type="noteDuration" id="FK4MJCo]7NqMCl+zlcoR">
+                        <field name="value">4</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="ditto" id="/))_B32+Uv+1%aSOji4c">
+                        <value name="count">
+                          <block type="integer" id="`h_#^%M%x^G*}NSlYU5y">
+                            <field name="value">3</field>
+                          </block>
+                        </value>
+                        <statement name="body">
+                          <block type="play" id=".sY[H,!H*iTa$Xzfu1{d">
+                            <value name="note">
+                              <block type="offset" id="B:^Gsby1WnMGZ^$3:VaW">
+                                <field name="value">+1</field>
+                                <field name="unit">keysteps</field>
+                              </block>
+                            </value>
+                            <value name="duration">
+                              <block type="noteDuration" id="75S4o|w8?4BLR?p4PEN[">
+                                <field name="value">4</field>
+                              </block>
+                            </value>
+                          </block>
+                        </statement>
+                        <next>
+                          <block type="play" id="(A1Un%CEjghd)1,R2cn=">
+                            <value name="note">
+                              <block type="offset" id="^gjIYi6(LIPE;WWRKrx|">
+                                <field name="value">+1</field>
+                                <field name="unit">keysteps</field>
+                              </block>
+                            </value>
+                            <value name="duration">
+                              <block type="noteDuration" id="cd[2]n0h*utJjTT2H=sm">
+                                <field name="value">2</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="play" id="HB-9x(-1rDMBDcs97(b/">
+                                <value name="note">
+                                  <block type="offset" id="dWZ}x]V~KFyj}rE}gdo{">
+                                    <field name="value">+0</field>
+                                    <field name="unit">halfsteps</field>
+                                  </block>
+                                </value>
+                                <value name="duration">
+                                  <block type="noteDuration" id="h4Fl78`Iw@/F2O~-+20o">
+                                    <field name="value">4</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="ditto" id="r^gX/[0_-0oq,ic_BmWg">
+                                    <value name="count">
+                                      <block type="integer" id="S@JtEf:(6Kg$9$?FM.ft">
+                                        <field name="value">3</field>
+                                      </block>
+                                    </value>
+                                    <statement name="body">
+                                      <block type="play" id="h_f#}3xPcMpMSI$PP|=j">
+                                        <value name="note">
+                                          <block type="offset" id=",UQ!g,3.p!}Q`%(j{VKK">
+                                            <field name="value">-1</field>
+                                            <field name="unit">keysteps</field>
+                                          </block>
+                                        </value>
+                                        <value name="duration">
+                                          <block type="noteDuration" id="J:!w*rO!+6Ea!^I:wZ5v">
+                                            <field name="value">4</field>
+                                          </block>
+                                        </value>
+                                      </block>
+                                    </statement>
+                                    <next>
+                                      <block type="play" id="MM]?FfpM`.B63q`H7L5W">
+                                        <value name="note">
+                                          <block type="offset" id="j+QsAbi;0U:SJzdmlitV">
+                                            <field name="value">-1</field>
+                                            <field name="unit">keysteps</field>
+                                          </block>
+                                        </value>
+                                        <value name="duration">
+                                          <block type="noteDuration" id="S+hVbMk4]@#h6w!,Nn,,">
+                                            <field name="value">2</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="play" id="C?VoQ3%i#~]m~1xn9FZ[">
+                                            <value name="note">
+                                              <block type="chord" id="--5]B~T99si`O3QS*O5F">
+                                                <mutation arity="3"></mutation>
+                                                <value name="element0">
+                                                  <block type="offset" id="szi^@5pY3ffK?)rS`k%T">
+                                                    <field name="value">+0</field>
+                                                    <field name="unit">keysteps</field>
+                                                  </block>
+                                                </value>
+                                                <value name="element1">
+                                                  <block type="offset" id="4v?D0;v!U(n7Qv1]}%K#">
+                                                    <field name="value">+2</field>
+                                                    <field name="unit">keysteps</field>
+                                                  </block>
+                                                </value>
+                                                <value name="element2">
+                                                  <block type="offset" id="sY62u$jM.|TI[goQKTL,">
+                                                    <field name="value">+2</field>
+                                                    <field name="unit">keysteps</field>
+                                                  </block>
+                                                </value>
+                                              </block>
+                                            </value>
+                                            <value name="duration">
+                                              <block type="noteDuration" id=")?x%K/c04vG]:Swx1g,e">
+                                                <field name="value">2</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="play" id="zA1rVXCV!s0Zwsa!}S/c">
+                                                <value name="note">
+                                                  <block type="chord" id="},ae(d/vY/0](A0fJLh2">
+                                                    <mutation arity="3"></mutation>
+                                                    <value name="element0">
+                                                      <block type="offset" id="{3Z}_.9bI%?u$pT)=`o,">
+                                                        <field name="value">-1</field>
+                                                        <field name="unit">halfsteps</field>
+                                                      </block>
+                                                    </value>
+                                                    <value name="element1">
+                                                      <block type="offset" id="s3k%k~RQ8=g:XEh1)OvN">
+                                                        <field name="value">+6</field>
+                                                        <field name="unit">halfsteps</field>
+                                                      </block>
+                                                    </value>
+                                                    <value name="element2">
+                                                      <block type="offset" id=".iMXXd#5*!dr-Dby6MBT">
+                                                        <field name="value">+1</field>
+                                                        <field name="unit">keysteps</field>
+                                                      </block>
+                                                    </value>
+                                                  </block>
+                                                </value>
+                                                <value name="duration">
+                                                  <block type="noteDuration" id="2a?WLl~FZF19vHdjREV`">
+                                                    <field name="value">2</field>
+                                                  </block>
+                                                </value>
+                                                <next>
+                                                  <block type="play" id="KLH5,A%vxZ8=c9p]uq!$">
+                                                    <value name="note">
+                                                      <block type="chord" id="+kDlL1*d{*xp!^[ceq[q">
+                                                        <mutation arity="3"></mutation>
+                                                        <value name="element0">
+                                                          <block type="offset" id="E6S_=GR)`T9~@]:-bm*k">
+                                                            <field name="value">+1</field>
+                                                            <field name="unit">halfsteps</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="element1">
+                                                          <block type="offset" id="`[4+hRy#PF+~N8o;~|Ad">
+                                                            <field name="value">+2</field>
+                                                            <field name="unit">keysteps</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="element2">
+                                                          <block type="offset" id="u)w7%2)4:WqdDjY-ci_C">
+                                                            <field name="value">+2</field>
+                                                            <field name="unit">keysteps</field>
+                                                          </block>
+                                                        </value>
+                                                      </block>
+                                                    </value>
+                                                    <value name="duration">
+                                                      <block type="noteDuration" id="_m9V5E5I_Cn1h?.l_a$-">
+                                                        <field name="value">2</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="rest" id="D59Tt4gJUE7W_Dx$$]pJ">
+                                                        <value name="duration">
+                                                          <block type="restDuration" id="cLd]*$._NNU,^.JE]|U%">
+                                                            <field name="value">2</field>
+                                                          </block>
+                                                        </value>
+                                                        <next>
+                                                          <block type="jump" id="hEx_`bOg@(@Pblyz)bx.">
+                                                            <value name="note">
+                                                              <block type="offset" id="y!3sUrx?nzD/NR(xc;qf">
+                                                                <field name="value">+4</field>
+                                                                <field name="unit">keysteps</field>
+                                                              </block>
+                                                            </value>
+                                                            <next>
+                                                              <block type="reroot" id="#1{Ntx+!z.^=,R{7HSTu"></block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </statement>
+                <next>
+                  <block type="jump" id="#~k!1YG.8I@/p1F@mM/C">
+                    <value name="note">
+                      <block type="offset" id="/gk;4GHXoE4DE?~dl{F8">
+                        <field name="value">-12</field>
+                        <field name="unit">halfsteps</field>
+                      </block>
+                    </value>
+                  </block>
+                </next>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

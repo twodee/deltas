@@ -1,0 +1,162 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="jump" id="u}@i/wT(7|svY$DMdVx_" x="-107" y="-263">
+    <value name="note">
+      <block type="position" id="57nJY{OdQXv)j0mLwjpd">
+        <value name="letter">
+          <block type="letter" id="jmYF?0G:^@q{jwd1t!Jr">
+            <field name="value">7</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="_`@B`/M{}XG$1FNzW5fo">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="octave">
+          <block type="integer" id="lP(2p(JM1e0zC?=,H`}Y">
+            <field name="value">4</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="ditto" id="eB@D[j]-iGB#|MO?=+0w">
+        <value name="count">
+          <block type="integer" id="*.HHY|U2,m_Yt[qKM(7L">
+            <field name="value">2</field>
+          </block>
+        </value>
+        <statement name="body">
+          <block type="ditto" id="/CQ9U|!|Z-Q$]/jA3UP{">
+            <value name="count">
+              <block type="integer" id="mvHz;U0_FskMR?(OwTSp">
+                <field name="value">4</field>
+              </block>
+            </value>
+            <statement name="body">
+              <block type="play" id="lYlPZ#Wj)FvO5Nbh8Fcn">
+                <value name="note">
+                  <block type="offset" id="ZQ/h+?$19YZosB2?3_J*">
+                    <field name="value">0</field>
+                    <field name="unit">keysteps</field>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="bU]2_DVl-bLIWBr7i|bQ">
+                    <field name="value">8</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="play" id=";0GJI5WslM=B:8[utNh)">
+                <value name="note">
+                  <block type="offset" id="0J?N|tcPe7:!T3HOh3hw">
+                    <field name="value">+1</field>
+                    <field name="unit">keysteps</field>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="b@UNGKq7g2aE7sYPHxO1">
+                    <field name="value">4</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="play" id="brUL#=O8yDV0CwEEu?5D">
+                    <value name="note">
+                      <block type="offset" id="OrRstHOs)kgKVc~P`9km">
+                        <field name="value">0</field>
+                        <field name="unit">keysteps</field>
+                      </block>
+                    </value>
+                    <value name="duration">
+                      <block type="noteDuration" id="Xx-]GXqCm_u$f$Ze9dhe">
+                        <field name="value">8</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="play" id="iiC5DBZyhz^$}`epY^wq">
+                        <value name="note">
+                          <block type="offset" id="`0|ITfE``k8Op0qZS[tr">
+                            <field name="value">0</field>
+                            <field name="unit">keysteps</field>
+                          </block>
+                        </value>
+                        <value name="duration">
+                          <block type="noteDuration" id="=%(;DZk79_;nGB`h9%rc">
+                            <field name="value">8</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="play" id="5rqH[_b3{a9D(nb6MRqF">
+                            <value name="note">
+                              <block type="offset" id="q@2PA}8#+/u%=R:l*:$I">
+                                <field name="value">-1</field>
+                                <field name="unit">keysteps</field>
+                              </block>
+                            </value>
+                            <value name="duration">
+                              <block type="noteDuration" id="stDcCdQFd^(|*[c0{K`E">
+                                <field name="value">4</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="play" id="F4L@_7LO]RkQb-cQATOo">
+                                <value name="note">
+                                  <block type="offset" id="|3vkc.H.iHSWzy^|5H]~">
+                                    <field name="value">-2</field>
+                                    <field name="unit">keysteps</field>
+                                  </block>
+                                </value>
+                                <value name="duration">
+                                  <block type="noteDuration" id="TKS|Rtkv3YB^D^5TE6[F">
+                                    <field name="value">4</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="play" id="wr*v{-5ZOVGrl{PNp7r~">
+                                    <value name="note">
+                                      <block type="offset" id="bJ{x[`BT=D-?(5~xi*a7">
+                                        <field name="value">+2</field>
+                                        <field name="unit">keysteps</field>
+                                      </block>
+                                    </value>
+                                    <value name="duration">
+                                      <block type="noteDuration" id="n/Z}SOqJ/@`;-)0czhMt">
+                                        <field name="value">4</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="play" id="$c;w!KE4yt?k$v]E$55-">
+                                        <value name="note">
+                                          <block type="offset" id="%T3][f:QN|-rv/=)jpF^">
+                                            <field name="value">-2</field>
+                                            <field name="unit">keysteps</field>
+                                          </block>
+                                        </value>
+                                        <value name="duration">
+                                          <block type="noteDuration" id="{R64TBVq*7[8@J+r%J{y">
+                                            <field name="value">4</field>
+                                          </block>
+                                        </value>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

@@ -1,0 +1,94 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="play" id="LaOXF$ID%01Z:5NBsE$P" x="-209" y="6">
+    <value name="note">
+      <block type="position" id="5y/[fDM(AHs3aA!j;^T/">
+        <value name="letter">
+          <block type="letter" id="y7]%X~WrMxfHMjsLd7wQ">
+            <field name="value">11</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="X3R~he];V]O=qkldcLOV">
+            <field name="value">-1</field>
+          </block>
+        </value>
+        <value name="octave">
+          <block type="integer" id="$[M,+ktL?0Z[yx?;rGlS">
+            <field name="value">4</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <value name="duration">
+      <block type="noteDuration" id="|nRtuv3AW~.23(HdLYIi">
+        <field name="value">32</field>
+      </block>
+    </value>
+    <next>
+      <block type="ditto" id="8hf382R[ZpI*3ArZ#76x">
+        <value name="count">
+          <block type="integer" id="1|a)`XB4MAvXL!g4wi:I">
+            <field name="value">20</field>
+          </block>
+        </value>
+        <statement name="body">
+          <block type="play" id="8Wk6SSzIm_,.kw;0e.]E">
+            <value name="note">
+              <block type="offsetWithInput" id="0/-#Afer33{@W7%H6?d1">
+                <field name="unit">halfsteps</field>
+                <value name="offset">
+                  <block type="random" id="bBR0^GZRJvO]f4))5zbq">
+                    <value name="min">
+                      <block type="integer" id="#~^X#27SJB!9#v$?GBto">
+                        <field name="value">1</field>
+                      </block>
+                    </value>
+                    <value name="max">
+                      <block type="integer" id="4Qc0}T!=$+NgOQor,Yk@">
+                        <field name="value">5</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="duration">
+              <block type="noteDuration" id="qmI}l#o9~dLcdW@/:$.H">
+                <field name="value">32</field>
+              </block>
+            </value>
+            <next>
+              <block type="play" id="VOqkmx0#li,QoI*:(pZi">
+                <value name="note">
+                  <block type="offsetWithInput" id="24(5#!O9mqk..wQIk5Z$">
+                    <field name="unit">halfsteps</field>
+                    <value name="offset">
+                      <block type="random" id="U?Jtx^mNzd@nl3S=5[7,">
+                        <value name="min">
+                          <block type="integer" id="(`Y+7,pB!VuaGwF61P6k">
+                            <field name="value">-5</field>
+                          </block>
+                        </value>
+                        <value name="max">
+                          <block type="integer" id="k6*,bc,RFZWep^xpX=io">
+                            <field name="value">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="XqE[y)a6{(e+J@y(dSi+">
+                    <field name="value">32</field>
+                  </block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>
