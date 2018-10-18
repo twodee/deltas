@@ -1,27 +1,23 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <variables></variables>
-  <block type="play" id="LaOXF$ID%01Z:5NBsE$P" x="-209" y="6">
-    <value name="note">
-      <block type="position" id="5y/[fDM(AHs3aA!j;^T/">
-        <value name="letter">
-          <block type="letter" id="y7]%X~WrMxfHMjsLd7wQ">
-            <field name="value">11</field>
-          </block>
-        </value>
-        <value name="accidental">
-          <block type="accidental" id="X3R~he];V]O=qkldcLOV">
-            <field name="value">-1</field>
-          </block>
-        </value>
-        <value name="octave">
-          <block type="integer" id="$[M,+ktL?0Z[yx?;rGlS">
-            <field name="value">4</field>
-          </block>
-        </value>
+  <block type="playAbsolute" id=".6ZiH=TuZ))z[hPV7JGz" x="-95" y="-161">
+    <value name="letter">
+      <block type="letter" id="A/}r6+O$?]Yf^S%Tc@~2">
+        <field name="value">11</field>
+      </block>
+    </value>
+    <value name="accidental">
+      <block type="accidental" id="NNSXw%vS#8XP$^x`qL4G">
+        <field name="value">0</field>
+      </block>
+    </value>
+    <value name="octave">
+      <block type="integer" id="b1;j95co0KG:]V7k9qpw">
+        <field name="value">4</field>
       </block>
     </value>
     <value name="duration">
-      <block type="noteDuration" id="|nRtuv3AW~.23(HdLYIi">
+      <block type="noteDuration" id="tkX_LaJtC,O3=u4E-yeu">
         <field name="value">32</field>
       </block>
     </value>
