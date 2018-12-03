@@ -1,0 +1,294 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="jumpAbsolute" id="hM*l-E^|JRt:UE0ixg_8" x="62" y="22">
+    <value name="letter">
+      <block type="letter" id="7NN8+0-x_C=T%:HVMo5K">
+        <field name="value">0</field>
+      </block>
+    </value>
+    <value name="accidental">
+      <block type="accidental" id="*J9pD!ee^NC~lILBT/F3">
+        <field name="value">0</field>
+      </block>
+    </value>
+    <value name="octave">
+      <block type="integer" id=")iKH-$=8#rK8`RzfJTS0">
+        <field name="value">4</field>
+      </block>
+    </value>
+    <next>
+      <block type="playRelative" id=";I,/5b?GFsmXkWi@5-=l">
+        <value name="deltaValue">
+          <block type="deltaValue" id="?.(}?9xQq72*%xUHsqZ?">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <value name="deltaUnit">
+          <block type="deltaUnit" id="~(@KXgP-?y7I#SBsiv2M">
+            <field name="unit">0</field>
+          </block>
+        </value>
+        <value name="duration">
+          <block type="noteDuration" id="!@{au:h;^pL6eJfOmd@`">
+            <field name="value">8</field>
+          </block>
+        </value>
+        <next>
+          <block type="playRelative" id="M:z@DM58hmL0z25nKy8e">
+            <value name="deltaValue">
+              <block type="deltaValue" id="!Y:;5A,~E,-:B[/aBKZ?">
+                <field name="value">+0</field>
+              </block>
+            </value>
+            <value name="deltaUnit">
+              <block type="deltaUnit" id="GT~*fjuzbZW!(LQs)bVn">
+                <field name="unit">1</field>
+              </block>
+            </value>
+            <value name="duration">
+              <block type="noteDuration" id="}zksBers:5D4GF4%K9~g">
+                <field name="value">4</field>
+              </block>
+            </value>
+            <next>
+              <block type="playRelative" id="R`#vAl|^LU_}-Z[Y8;H|">
+                <value name="deltaValue">
+                  <block type="deltaValue" id="@PZZ,_Ldf,q+%S5X+]Hw">
+                    <field name="value">+1</field>
+                  </block>
+                </value>
+                <value name="deltaUnit">
+                  <block type="deltaUnit" id="YiOU}+I|$dMbh7Z`aeX_">
+                    <field name="unit">keysteps</field>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="KEY-HNHHbQ^I3j!p6/UT">
+                    <field name="value">8</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="playRelative" id="`LNj]5Z~Ql_zhTnCPz;+">
+                    <value name="deltaValue">
+                      <block type="deltaValue" id="u]vZgHh{%H+M.}W(snw1">
+                        <field name="value">+1</field>
+                      </block>
+                    </value>
+                    <value name="deltaUnit">
+                      <block type="deltaUnit" id="1NF(.2lrD3[Tf/BT4V|E">
+                        <field name="unit">keysteps</field>
+                      </block>
+                    </value>
+                    <value name="duration">
+                      <block type="noteDuration" id="8|l`[t5p7(LA3hd3|rf/">
+                        <field name="value">2</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="jumpRelative" id="2cpqa/QY+7VWT:8mVL]J">
+                        <value name="deltaValue">
+                          <block type="deltaValue" id="T4A75LVDZ;oKDcn./uYS">
+                            <field name="value">-2</field>
+                          </block>
+                        </value>
+                        <value name="deltaUnit">
+                          <block type="deltaUnit" id="MJrk)zSs2Vj9oHZ*znYW">
+                            <field name="unit">keysteps</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="playRelative" id="aAHyV$|~+l@ZzI9]Pw^h">
+                            <value name="deltaValue">
+                              <block type="deltaValue" id="?YnT;0dk+P,X,]9IyGm.">
+                                <field name="value">+0</field>
+                              </block>
+                            </value>
+                            <value name="deltaUnit">
+                              <block type="deltaUnit" id="OarA)vJRli-2|KAyF?Sn">
+                                <field name="unit">0</field>
+                              </block>
+                            </value>
+                            <value name="duration">
+                              <block type="noteDuration" id="ykkTGNc*}L^/!:`Svd{u">
+                                <field name="value">8</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="playRelative" id="k/Mf6mO@@_oJBK|q;LjF">
+                                <value name="deltaValue">
+                                  <block type="deltaValue" id="I]sdBS!S:C%OaqRR[WK5">
+                                    <field name="value">+0</field>
+                                  </block>
+                                </value>
+                                <value name="deltaUnit">
+                                  <block type="deltaUnit" id="(d.v8PEub9N)J8p%otFB">
+                                    <field name="unit">1</field>
+                                  </block>
+                                </value>
+                                <value name="duration">
+                                  <block type="noteDuration" id="CzwxXJ.j=86zzlqeG7B-">
+                                    <field name="value">4</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="playRelative" id="Q/bZnx}uxYLmfzI;ERK%">
+                                    <value name="deltaValue">
+                                      <block type="deltaValue" id="b@_?`KX?4BNYHQ=~aVFX">
+                                        <field name="value">+1</field>
+                                      </block>
+                                    </value>
+                                    <value name="deltaUnit">
+                                      <block type="deltaUnit" id="U[)sonn=$/UmnXxqv^p+">
+                                        <field name="unit">keysteps</field>
+                                      </block>
+                                    </value>
+                                    <value name="duration">
+                                      <block type="noteDuration" id="N6w^Su8Z1.C#EVet4~[v">
+                                        <field name="value">8</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="playRelative" id="$$FN_L~3%yl~/-]mhF/7">
+                                        <value name="deltaValue">
+                                          <block type="deltaValue" id="8K2/lIYjKnV{$Lnl}60n">
+                                            <field name="value">+1</field>
+                                          </block>
+                                        </value>
+                                        <value name="deltaUnit">
+                                          <block type="deltaUnit" id="9lpgG9_P}4@xWt{)N%KA">
+                                            <field name="unit">keysteps</field>
+                                          </block>
+                                        </value>
+                                        <value name="duration">
+                                          <block type="noteDuration" id=")e6mwfTbLoq9NRm2c`(4">
+                                            <field name="value">4</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="jumpRelative" id=")d[Me|ncjK-@|-xq4wq1">
+                                            <value name="deltaValue">
+                                              <block type="deltaValue" id="X{yVJ+KH56h]5Wn(5-t3">
+                                                <field name="value">-2</field>
+                                              </block>
+                                            </value>
+                                            <value name="deltaUnit">
+                                              <block type="deltaUnit" id="Ee*Ku|+tzXg3QacMHq3t">
+                                                <field name="unit">keysteps</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="playRelative" id="VeKL2oK2p_y9o`mfG#Mv">
+                                                <value name="deltaValue">
+                                                  <block type="deltaValue" id="uf:SE]Og.q|iqS[(d}{s">
+                                                    <field name="value">+2</field>
+                                                  </block>
+                                                </value>
+                                                <value name="deltaUnit">
+                                                  <block type="deltaUnit" id="JQIAemjp3X~x6uMZw9*7">
+                                                    <field name="unit">0</field>
+                                                  </block>
+                                                </value>
+                                                <value name="duration">
+                                                  <block type="noteDuration" id="6Sd7_-/2-}s{?4A8$m!F">
+                                                    <field name="value">8</field>
+                                                  </block>
+                                                </value>
+                                                <next>
+                                                  <block type="playRelative" id="P?VQ|a.Cbq:3,hf)?MP2">
+                                                    <value name="deltaValue">
+                                                      <block type="deltaValue" id="V}%@!xA:bIKCX9!9Vt$~">
+                                                        <field name="value">+1</field>
+                                                      </block>
+                                                    </value>
+                                                    <value name="deltaUnit">
+                                                      <block type="deltaUnit" id="JUqAS-dA:!Vt`gxgh9FA">
+                                                        <field name="unit">0</field>
+                                                      </block>
+                                                    </value>
+                                                    <value name="duration">
+                                                      <block type="noteDuration" id="046d;=*|Z$f$zu)*m;cI">
+                                                        <field name="value">8</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="playRelative" id="$-ogpB7OXq]b-]7itRHj">
+                                                        <value name="deltaValue">
+                                                          <block type="deltaValue" id="scv8rNMs]psIc~mt/*H4">
+                                                            <field name="value">-1</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="deltaUnit">
+                                                          <block type="deltaUnit" id="`4H!!fh;^^/#1pR)Pb|Z">
+                                                            <field name="unit">0</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="duration">
+                                                          <block type="noteDuration" id="H{d2QKJHh!$wVKUkN?As">
+                                                            <field name="value">4</field>
+                                                          </block>
+                                                        </value>
+                                                        <next>
+                                                          <block type="playRelative" id="Jqgi09KgROQCP#,+#_#A">
+                                                            <value name="deltaValue">
+                                                              <block type="deltaValue" id="Ce#tlsA#sA=f*stX-3:g">
+                                                                <field name="value">-1</field>
+                                                              </block>
+                                                            </value>
+                                                            <value name="deltaUnit">
+                                                              <block type="deltaUnit" id="]J{3T#vlYG13!Jn#}`jx">
+                                                                <field name="unit">0</field>
+                                                              </block>
+                                                            </value>
+                                                            <value name="duration">
+                                                              <block type="noteDuration" id="QnokCVo:;%~DpvIo`G2f">
+                                                                <field name="value">4</field>
+                                                              </block>
+                                                            </value>
+                                                            <next>
+                                                              <block type="playRelative" id="60$Z%byS|!bU6H5KpZQg">
+                                                                <value name="deltaValue">
+                                                                  <block type="deltaValue" id="Q}ZjK[;RzRK0%$c}Rh4-">
+                                                                    <field name="value">+0</field>
+                                                                  </block>
+                                                                </value>
+                                                                <value name="deltaUnit">
+                                                                  <block type="deltaUnit" id="1=IhfH~iB2vflghXkP9p">
+                                                                    <field name="unit">0</field>
+                                                                  </block>
+                                                                </value>
+                                                                <value name="duration">
+                                                                  <block type="noteDuration" id=".;kAOmb*[g8#*G!8;6fZ">
+                                                                    <field name="value">2</field>
+                                                                  </block>
+                                                                </value>
+                                                              </block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
