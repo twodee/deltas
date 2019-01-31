@@ -1,0 +1,140 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="to" id="_/Gv~ObCOPDZjS+kI6o3" x="-37" y="-296">
+    <mutation>
+      <parameters>
+        <parameter identifier="root" mode="value"></parameter>
+      </parameters>
+    </mutation>
+    <field name="identifier">majorTriad</field>
+    <value name="_root">
+      <block type="formalParameter" id="6C0aLruHDnoq?CNwh},C" movable="false">
+        <mutation mode="value"></mutation>
+        <field name="identifier">root</field>
+      </block>
+    </value>
+    <statement name="body">
+      <block type="jump" id="$ZweaR.Em8`79:Waeuta">
+        <value name="note">
+          <block type="parameterReference" id="Wof~O%K`t^Bxsw$lH*4o">
+            <mutation mode="value" identifier="root" formalblockid="6C0aLruHDnoq?CNwh},C"></mutation>
+          </block>
+        </value>
+        <next>
+          <block type="play" id="Y?CM$oHVcV_GoNU#$mF,">
+            <value name="note">
+              <block type="chord" id="|+UG!v6;=_zvMBXo]#V|">
+                <mutation arity="3"></mutation>
+                <value name="element0">
+                  <block type="delta" id=";W5LY0,!2F6FBQKvhrFl">
+                    <value name="value">
+                      <block type="deltaValue" id=";MPnKZu^Mk5{R32sY=_Q">
+                        <field name="value">+0</field>
+                      </block>
+                    </value>
+                    <value name="unit">
+                      <block type="deltaUnit" id="U6%n$lj!Ul.en:x6muNN">
+                        <field name="unit">1</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="element1">
+                  <block type="delta" id="#omDS,:E]X]@);+aFbYp">
+                    <value name="value">
+                      <block type="deltaValue" id="(x2w3ERh$yei%/9Ygw:L">
+                        <field name="value">+4</field>
+                      </block>
+                    </value>
+                    <value name="unit">
+                      <block type="deltaUnit" id="zeSAI|3Aru$jOPg]c,v{">
+                        <field name="unit">1</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="element2">
+                  <block type="delta" id="frUA8^FRB(5*S!R{qy4X">
+                    <value name="value">
+                      <block type="deltaValue" id="@HG){R}RSp%G7]eu)WuI">
+                        <field name="value">+3</field>
+                      </block>
+                    </value>
+                    <value name="unit">
+                      <block type="deltaUnit" id="oStCnZEMcI5eR3}1i/%*">
+                        <field name="unit">1</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="duration">
+              <block type="noteDuration" id="Z:1OaM[[/Bzb$2vFpF8w">
+                <field name="value">8</field>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="forRange" id="nKb0uhn#B=/bkF@@{bh@" x="-26" y="-45">
+    <mutation hasby="false"></mutation>
+    <field name="identifier">i</field>
+    <field name="inclusivity">through</field>
+    <value name="lo">
+      <block type="position" id="j^WzeeUU@iOTPkQg1WXY">
+        <value name="letter">
+          <block type="letter" id="5H~y(J]u[a/S+6tbIPj:">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="|LE:~drt@tH$?7kt|NZD">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="octave">
+          <block type="integer" id="-.53Vjlgv|s,=p@^5*WG">
+            <field name="value">4</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <value name="hi">
+      <block type="position" id="TD_-m)6%jJ?NvZ={m[MK">
+        <value name="letter">
+          <block type="letter" id="0%O?:(!a#Z/;,l9_?oHW">
+            <field name="value">11</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="$AMMqiRd8?7-,0tZA6re">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="octave">
+          <block type="integer" id="^[xbWh5js;~o:4TPnFc+">
+            <field name="value">5</field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <statement name="body">
+      <block type="play" id="DYRGOmJ$?s88g!LG[X3d">
+        <value name="note">
+          <block type="get" id="43v:VyFzFDUF?~.hfyen">
+            <mutation>
+              <set id="nKb0uhn#B=/bkF@@{bh@" identifier="i"></set>
+            </mutation>
+          </block>
+        </value>
+        <value name="duration">
+          <block type="noteDuration" id="V/4_.QZgL3-1q^EjYN33">
+            <field name="value">16</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
