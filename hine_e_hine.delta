@@ -1,0 +1,546 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="beatsPerMinute" id="I$,[!~.0%PD)}L@XI4*)" x="42" y="-124">
+    <value name="speed">
+      <block type="integer" id="B1QC7Hwb[qd^cHMgnl_p">
+        <field name="value">150</field>
+      </block>
+    </value>
+    <next>
+      <block type="keySignature" id="pP%.X,;KRnsg`=E*%3;L">
+        <value name="letter">
+          <block type="letter" id="bN2mS,ukS?$k04`HaFEO">
+            <field name="value">7</field>
+          </block>
+        </value>
+        <value name="accidental">
+          <block type="accidental" id="ZLLg54*JLlC9Y?=g?wX%">
+            <field name="value">0</field>
+          </block>
+        </value>
+        <value name="scale">
+          <block type="scale" id="jZPEz0ni5yul-*ASK^yY">
+            <field name="value">major</field>
+          </block>
+        </value>
+        <next>
+          <block type="call" id="42pY,.hC@O_TkQFj{]An">
+            <mutation mode="action">
+              <to id="#;O/Y%splz%90p;/bY5r" identifier="a"></to>
+              <parameters></parameters>
+            </mutation>
+            <next>
+              <block type="call" id="iB/CCxE-B}(V,3n;Z*AF">
+                <mutation mode="action">
+                  <to id="#;O/Y%splz%90p;/bY5r" identifier="a"></to>
+                  <parameters></parameters>
+                </mutation>
+                <next>
+                  <block type="call" id="cV+iI=TdDsvH-;0ix,!J">
+                    <mutation mode="action">
+                      <to id="6pEHNjb#gs0)/=fAUH%$" identifier="b"></to>
+                      <parameters></parameters>
+                    </mutation>
+                    <next>
+                      <block type="jumpAbsolute" id="Or(*d%ut5^cBW|79RX5.">
+                        <value name="letter">
+                          <block type="letter" id="GiVSOe+)+l#~jdGd~qcx">
+                            <field name="value">7</field>
+                          </block>
+                        </value>
+                        <value name="accidental">
+                          <block type="accidental" id="0u4Np@[~:L)-:17R!g?:">
+                            <field name="value">0</field>
+                          </block>
+                        </value>
+                        <value name="octave">
+                          <block type="integer" id="-OV_t+s9}9XwX;p-[KXD">
+                            <field name="value">4</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="call" id=".0C5yv4VLiWoiShG+RF^">
+                            <mutation mode="action">
+                              <to id="#;O/Y%splz%90p;/bY5r" identifier="a"></to>
+                              <parameters></parameters>
+                            </mutation>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="to" id="6pEHNjb#gs0)/=fAUH%$" collapsed="true" x="81" y="480">
+    <mutation>
+      <parameters></parameters>
+    </mutation>
+    <field name="identifier">b</field>
+    <statement name="body">
+      <block type="call" id="U}$G!ud,2MxA0pD@q+NX" inline="true">
+        <mutation mode="action">
+          <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+          <parameters>
+            <parameter identifier="d1" mode="value"></parameter>
+            <parameter identifier="d2" mode="value"></parameter>
+            <parameter identifier="d3" mode="value"></parameter>
+          </parameters>
+        </mutation>
+        <value name="_d1">
+          <block type="deltaValue" id="cw@2)L;{LRX#Q}NiO#-q">
+            <field name="value">+2</field>
+          </block>
+        </value>
+        <value name="_d2">
+          <block type="deltaValue" id="o/oinPep5(nZIs}C0GRu">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <value name="_d3">
+          <block type="deltaValue" id="WRb.LB}`k.R!h+EO^6{O">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <next>
+          <block type="call" id="+]nnv/~kgBY![xljZylW" inline="true">
+            <mutation mode="action">
+              <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+              <parameters>
+                <parameter identifier="d1" mode="value"></parameter>
+                <parameter identifier="d2" mode="value"></parameter>
+                <parameter identifier="d3" mode="value"></parameter>
+              </parameters>
+            </mutation>
+            <value name="_d1">
+              <block type="deltaValue" id="E=jJKd$prQuOk=z!2;]r">
+                <field name="value">+1</field>
+              </block>
+            </value>
+            <value name="_d2">
+              <block type="deltaValue" id="y+nAYQw1~D)~4v~T5[!K">
+                <field name="value">-3</field>
+              </block>
+            </value>
+            <value name="_d3">
+              <block type="deltaValue" id="GE_jB|3hhqH1-O*GU!^V">
+                <field name="value">+1</field>
+              </block>
+            </value>
+            <next>
+              <block type="playRelative" id="+08*^F^qFmYJrrip{Sb}">
+                <value name="deltaValue">
+                  <block type="deltaValue" id="HRK1khtn10}qexE3nuvv">
+                    <field name="value">+1</field>
+                  </block>
+                </value>
+                <value name="deltaUnit">
+                  <block type="deltaUnit" id=";j*ZjkAM}V%Seot2D*#d">
+                    <field name="unit">keysteps</field>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="}6O^{Qn7wg3ytZ}3Y!N.">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="rest" id="4Mh}bqZSOMSP^=eP%m+p">
+                    <value name="duration">
+                      <block type="restDuration" id="$ghx]C69N$HF*N#G@M?W">
+                        <field name="value">1</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="call" id="be6sCg}^z~_*(+,~Y)-F" inline="true">
+                        <mutation mode="action">
+                          <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+                          <parameters>
+                            <parameter identifier="d1" mode="value"></parameter>
+                            <parameter identifier="d2" mode="value"></parameter>
+                            <parameter identifier="d3" mode="value"></parameter>
+                          </parameters>
+                        </mutation>
+                        <value name="_d1">
+                          <block type="deltaValue" id="KrdvtjyRq;=XTaOPDq|1">
+                            <field name="value">+0</field>
+                          </block>
+                        </value>
+                        <value name="_d2">
+                          <block type="deltaValue" id="lR,VqJsiCxF.G3^F`CZc">
+                            <field name="value">+0</field>
+                          </block>
+                        </value>
+                        <value name="_d3">
+                          <block type="deltaValue" id="^1ANT~!:3e-]F#*Sl;=o">
+                            <field name="value">+0</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="call" id="TUW6}/XwR/g?SAhMdmPI" inline="true">
+                            <mutation mode="action">
+                              <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+                              <parameters>
+                                <parameter identifier="d1" mode="value"></parameter>
+                                <parameter identifier="d2" mode="value"></parameter>
+                                <parameter identifier="d3" mode="value"></parameter>
+                              </parameters>
+                            </mutation>
+                            <value name="_d1">
+                              <block type="deltaValue" id="?J{;Bnr_C(S/,{rG?Ded">
+                                <field name="value">+1</field>
+                              </block>
+                            </value>
+                            <value name="_d2">
+                              <block type="deltaValue" id="kX;9$K,2%g50CUg;%KXR">
+                                <field name="value">+0</field>
+                              </block>
+                            </value>
+                            <value name="_d3">
+                              <block type="deltaValue" id="]9-kzQkR52FE|AF~g@nF">
+                                <field name="value">+0</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="playRelative" id="i~,j~}2SD2PfG*=cn)AV">
+                                <value name="deltaValue">
+                                  <block type="deltaValue" id="GcHzoA~JN.$pZ^l4iC/m">
+                                    <field name="value">-1</field>
+                                  </block>
+                                </value>
+                                <value name="deltaUnit">
+                                  <block type="deltaUnit" id="EMdh]ip^We%pZI*4o+Ce">
+                                    <field name="unit">keysteps</field>
+                                  </block>
+                                </value>
+                                <value name="duration">
+                                  <block type="noteDuration" id="QrQ-Hm/a-Y0Ysz#sW~hr">
+                                    <field name="value">1</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="rest" id="k{$fUMU06eX5q.-ijh79">
+                                    <value name="duration">
+                                      <block type="restDuration" id="kTx2Rw#L[l-]XUK.Jo8I">
+                                        <field name="value">2</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="rest" id="yK2yRJqY=QT%rNvoT=U4">
+                                        <value name="duration">
+                                          <block type="restDuration" id="uGq$9yDabF#CP/1)wd!)">
+                                            <field name="value">4</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="playRelative" id="AIC)$4)rBBSN.%SQJ2=/">
+                                            <value name="deltaValue">
+                                              <block type="deltaValue" id="Odjba-8)*AO5_S}knS6v">
+                                                <field name="value">+0</field>
+                                              </block>
+                                            </value>
+                                            <value name="deltaUnit">
+                                              <block type="deltaUnit" id="gVVUm;FyQ:),:~G.}3?~">
+                                                <field name="unit">keysteps</field>
+                                              </block>
+                                            </value>
+                                            <value name="duration">
+                                              <block type="noteDuration" id="kR,c_E$l*,+)JipO:EWe">
+                                                <field name="value">4</field>
+                                              </block>
+                                            </value>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="to" id="#;O/Y%splz%90p;/bY5r" collapsed="true" x="82" y="526">
+    <mutation>
+      <parameters></parameters>
+    </mutation>
+    <field name="identifier">a</field>
+    <statement name="body">
+      <block type="call" id="Ccw)_2nP|#Hk*uOa9OoG" inline="true">
+        <mutation mode="action">
+          <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+          <parameters>
+            <parameter identifier="d1" mode="value"></parameter>
+            <parameter identifier="d2" mode="value"></parameter>
+            <parameter identifier="d3" mode="value"></parameter>
+          </parameters>
+        </mutation>
+        <value name="_d1">
+          <block type="deltaValue" id="M*f4m0*HOCaKid#z}}UX">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <value name="_d2">
+          <block type="deltaValue" id="tgf)w/O%pYng*mkE9FAt">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <value name="_d3">
+          <block type="deltaValue" id="Rk~Ojj#2=!y#?wm=a9Bb">
+            <field name="value">+0</field>
+          </block>
+        </value>
+        <next>
+          <block type="call" id="SXR_(`-.QqJ6@C{dYme=" inline="true">
+            <mutation mode="action">
+              <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+              <parameters>
+                <parameter identifier="d1" mode="value"></parameter>
+                <parameter identifier="d2" mode="value"></parameter>
+                <parameter identifier="d3" mode="value"></parameter>
+              </parameters>
+            </mutation>
+            <value name="_d1">
+              <block type="deltaValue" id="+4z[:??~,z^P@?ufcv^%">
+                <field name="value">-1</field>
+              </block>
+            </value>
+            <value name="_d2">
+              <block type="deltaValue" id="B{Owt:uNmf:DH_/DX5mH">
+                <field name="value">-1</field>
+              </block>
+            </value>
+            <value name="_d3">
+              <block type="deltaValue" id="p`b^B/teIRtg7fAWX/$a">
+                <field name="value">+1</field>
+              </block>
+            </value>
+            <next>
+              <block type="slur" id="}q802tX9ZDL26@c(rIyt">
+                <statement name="body">
+                  <block type="playRelative" id=".3thrJ{zE/AS[7EX$iFi">
+                    <value name="deltaValue">
+                      <block type="deltaValue" id="}t]#^RU:;j6!wwZPOJ9z">
+                        <field name="value">+1</field>
+                      </block>
+                    </value>
+                    <value name="deltaUnit">
+                      <block type="deltaUnit" id="0mZ,9E-cxE1|hUL5RgVC">
+                        <field name="unit">keysteps</field>
+                      </block>
+                    </value>
+                    <value name="duration">
+                      <block type="noteDuration" id="SliQY]g/Yv{|0$8Jky=t">
+                        <field name="value">1</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="playRelative" id="]HED4f_[H3^U*})6nL5i">
+                        <value name="deltaValue">
+                          <block type="deltaValue" id="}s%1e{6=~G_x^H-;d|#N">
+                            <field name="value">+3</field>
+                          </block>
+                        </value>
+                        <value name="deltaUnit">
+                          <block type="deltaUnit" id="AoUYrq,^;~f!{OH[npOl">
+                            <field name="unit">keysteps</field>
+                          </block>
+                        </value>
+                        <value name="duration">
+                          <block type="noteDuration" id="ZG_5RAV3A,5pA~VujW?c">
+                            <field name="value">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </next>
+                  </block>
+                </statement>
+                <next>
+                  <block type="call" id=".NH9iQCA7xM/`f(#]k47" inline="true">
+                    <mutation mode="action">
+                      <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+                      <parameters>
+                        <parameter identifier="d1" mode="value"></parameter>
+                        <parameter identifier="d2" mode="value"></parameter>
+                        <parameter identifier="d3" mode="value"></parameter>
+                      </parameters>
+                    </mutation>
+                    <value name="_d1">
+                      <block type="deltaValue" id="rfn-E~EX2F7FNJR^s#?M">
+                        <field name="value">-1</field>
+                      </block>
+                    </value>
+                    <value name="_d2">
+                      <block type="deltaValue" id="bi8Ed?yhpm-v]4bKiUBU">
+                        <field name="value">+1</field>
+                      </block>
+                    </value>
+                    <value name="_d3">
+                      <block type="deltaValue" id="x9UqLq`,x;TuoN(e=@Uf">
+                        <field name="value">-1</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="call" id="2EN154uF]pR7FniPF~~-" inline="true">
+                        <mutation mode="action">
+                          <to id="5+adAE.SR~nv{#j3d?%J" identifier="pattern"></to>
+                          <parameters>
+                            <parameter identifier="d1" mode="value"></parameter>
+                            <parameter identifier="d2" mode="value"></parameter>
+                            <parameter identifier="d3" mode="value"></parameter>
+                          </parameters>
+                        </mutation>
+                        <value name="_d1">
+                          <block type="deltaValue" id="cCvYIy,1N7X1oJy}XXk(">
+                            <field name="value">-1</field>
+                          </block>
+                        </value>
+                        <value name="_d2">
+                          <block type="deltaValue" id="XIN:.[Oo`F6S=.+!bxaU">
+                            <field name="value">-3</field>
+                          </block>
+                        </value>
+                        <value name="_d3">
+                          <block type="deltaValue" id="n?ps9^gBB[wW)X-L54Dk">
+                            <field name="value">+1</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="playRelative" id="$hLzm:[v)hb|E|($Ug5I">
+                            <value name="deltaValue">
+                              <block type="deltaValue" id="uMFC|Am`U;xOJLKo0(?N">
+                                <field name="value">+1</field>
+                              </block>
+                            </value>
+                            <value name="deltaUnit">
+                              <block type="deltaUnit" id=";=K]qnXnh_WZc*6sbSVw">
+                                <field name="unit">keysteps</field>
+                              </block>
+                            </value>
+                            <value name="duration">
+                              <block type="noteDuration" id="u^Di=,FloR1KFSVMZ3l}">
+                                <field name="value">1</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="rest" id="Qjou4tYiSzC63ER{h~uw">
+                                <value name="duration">
+                                  <block type="restDuration" id="w*=J:nQ%IDZyH0C|s/Ee">
+                                    <field name="value">1</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="to" id="5+adAE.SR~nv{#j3d?%J" x="72" y="588">
+    <mutation>
+      <parameters>
+        <parameter identifier="d1" mode="value"></parameter>
+        <parameter identifier="d2" mode="value"></parameter>
+        <parameter identifier="d3" mode="value"></parameter>
+      </parameters>
+    </mutation>
+    <field name="identifier">pattern</field>
+    <value name="_d1">
+      <block type="formalParameter" id="IjmeU_ts%1q}jLmBlA]:" movable="false">
+        <mutation mode="value"></mutation>
+        <field name="identifier">d1</field>
+      </block>
+    </value>
+    <value name="_d2">
+      <block type="formalParameter" id="I@@$x$pEZ/SvmMb8P~I~" movable="false">
+        <mutation mode="value"></mutation>
+        <field name="identifier">d2</field>
+      </block>
+    </value>
+    <value name="_d3">
+      <block type="formalParameter" id="A9DeSwPG#QHyzd#W`GS9" movable="false">
+        <mutation mode="value"></mutation>
+        <field name="identifier">d3</field>
+      </block>
+    </value>
+    <statement name="body">
+      <block type="playRelative" id="$d9F(AJc?*:hWmyR(E~y">
+        <value name="deltaValue">
+          <block type="variableGetter" id="8!Lm.oeHaJ(JCYG|7:Qf">
+            <mutation mode="value" identifier="d1" sourceblockid="5+adAE.SR~nv{#j3d?%J"></mutation>
+          </block>
+        </value>
+        <value name="deltaUnit">
+          <block type="deltaUnit" id="M*?GLdN416lD`Ws17sbJ">
+            <field name="unit">keysteps</field>
+          </block>
+        </value>
+        <value name="duration">
+          <block type="noteDuration" id="Co#kBlUTfd%;5%cI#=4G">
+            <field name="value">2</field>
+          </block>
+        </value>
+        <next>
+          <block type="playRelative" id="c6po(85rYBQh^PM^L1*E">
+            <value name="deltaValue">
+              <block type="variableGetter" id="zF=tVnzQHSHDENQuRUoj">
+                <mutation mode="value" identifier="d2" sourceblockid="5+adAE.SR~nv{#j3d?%J"></mutation>
+              </block>
+            </value>
+            <value name="deltaUnit">
+              <block type="deltaUnit" id="ln@/6TGHD}S;nGgkt@R8">
+                <field name="unit">keysteps</field>
+              </block>
+            </value>
+            <value name="duration">
+              <block type="noteDuration" id="1CS/$0;(0d?`DgQ-:r$x">
+                <field name="value">4</field>
+              </block>
+            </value>
+            <next>
+              <block type="playRelative" id="nMLXQ(qs%(nLeCvEN@lt">
+                <value name="deltaValue">
+                  <block type="variableGetter" id=",H(CMm*fo::EV8,).@P7">
+                    <mutation mode="value" identifier="d3" sourceblockid="5+adAE.SR~nv{#j3d?%J"></mutation>
+                  </block>
+                </value>
+                <value name="deltaUnit">
+                  <block type="deltaUnit" id="Au;wB_*|Kh2^9poX:!RZ">
+                    <field name="unit">keysteps</field>
+                  </block>
+                </value>
+                <value name="duration">
+                  <block type="noteDuration" id="V9*d|lw[[-a1_@!s!F1{">
+                    <field name="value">4</field>
+                  </block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+</xml>
