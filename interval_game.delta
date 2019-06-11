@@ -1,0 +1,287 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="hideScore" id="tLX^_*|[~0A*k6+4{/8H" x="-49" y="-1967">
+    <next>
+      <block type="set" id="m[Ot^4/T=sW(s(i|.*zG">
+        <value name="identifier">
+          <block type="setIdentifier" id="[A-5NV7np)Bau?Q4*=Eg" movable="false">
+            <field name="identifier">intervals</field>
+          </block>
+        </value>
+        <value name="value">
+          <block type="list" id="u|{!GNYA#=zBPFo$=I,h">
+            <mutation arity="8"></mutation>
+            <value name="element0">
+              <block type="interval" id="YNJ/{nIm0/7A6F!Xu@Z~">
+                <value name="quality">
+                  <block type="intervalQuality" id="lkb_,pZA]}:Th{by/@#;">
+                    <field name="value">0</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="M:g^J5JCa8*j/Lf[#ex}">
+                    <field name="value">0</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="c;f5^biV21fD/ZMNC)y]">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element1">
+              <block type="interval" id="b7n1@169{[K3[_kh(LL*">
+                <value name="quality">
+                  <block type="intervalQuality" id="JzrwB^NtY:H#HQLhb+*I">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="wVO]Y#IGu!|pf5K^F/9S">
+                    <field name="value">2</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="}q4Iy{#Rt?[V2y3~|c;w">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element2">
+              <block type="interval" id="o?/J|_g@umiXymOi{wkL">
+                <value name="quality">
+                  <block type="intervalQuality" id="RM1M239E6DXRi!,jlI7v">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="Vxq4SU#rB!%t*3I;Qr5.">
+                    <field name="value">4</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="l4yM4%FviM{H}6p.?A_?">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element3">
+              <block type="interval" id="rz;Tq6$/(Iy06%c13M,v">
+                <value name="quality">
+                  <block type="intervalQuality" id="Pf/yPd^Fqmd?Azjl)aof">
+                    <field name="value">0</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="%#,S0-TC;@dxCNFz!3#G">
+                    <field name="value">5</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="A+si?.,LCiqa{5P/mEiN">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element4">
+              <block type="interval" id="3-(#jg{^uAP88.]z_lqW">
+                <value name="quality">
+                  <block type="intervalQuality" id="5J_R8d{z##mx9X(^A}fE">
+                    <field name="value">0</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="zvD#PN6~dfo|#_=qPHGd">
+                    <field name="value">7</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="JjK)NX5NeyH!839x4ePo">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element5">
+              <block type="interval" id="oNaBDApvgfC)e[Ms(bB,">
+                <value name="quality">
+                  <block type="intervalQuality" id="ejckc@R89k@c,HUGD3{I">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="zfw2@%88cD7]Jg|_mG4t">
+                    <field name="value">9</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="O_r7qR]7RIOk2.~O.}Ru">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element6">
+              <block type="interval" id="}VMAuZI!Ah]J~B%[pX^7">
+                <value name="quality">
+                  <block type="intervalQuality" id="QM}oDLGAFZ]cFM8M:@3Q">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="+9%9onW~/1KS,Wu2h.Nm">
+                    <field name="value">11</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="{()rLkV3TVl7q-4*=*.T">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="element7">
+              <block type="interval" id="4Ybew3gsA60cBH_f/uBp">
+                <value name="quality">
+                  <block type="intervalQuality" id="PZA|t~v!Y)ivB?#wsQw)">
+                    <field name="value">0</field>
+                  </block>
+                </value>
+                <value name="name">
+                  <block type="intervalName" id="?C1Idr$:9xg!jak/ry//">
+                    <field name="value">12</field>
+                  </block>
+                </value>
+                <value name="direction">
+                  <block type="intervalDirection" id="FSak%Z0PKZV22wg6N-Pp">
+                    <field name="value">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+        <next>
+          <block type="ditto" id="qMD4*4#e[`._h.Ged(w}">
+            <value name="count">
+              <block type="integer" id="D5Q94#:0A!].Y5/m5neC">
+                <field name="value">5</field>
+              </block>
+            </value>
+            <statement name="body">
+              <block type="set" id="EjVfP5,c9~`T?IIk`*di">
+                <value name="identifier">
+                  <block type="setIdentifier" id=".5uh=P~cenT/NTAjhS9l" movable="false">
+                    <field name="identifier">winner</field>
+                  </block>
+                </value>
+                <value name="value">
+                  <block type="raffle" id="[P5#xp)+Y-a46*^D*v$%">
+                    <value name="list">
+                      <block type="variableGetter" id="xsz)6k/D-9-wk,DM*^ec">
+                        <mutation mode="value" identifier="intervals" sourceblockid="undefined"></mutation>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <next>
+                  <block type="playAbsolute" id="-senT%w+gAQ)]o/XErnF">
+                    <value name="letter">
+                      <block type="letter" id="P}`c)fmE@D:^j6YsMuZs">
+                        <field name="value">0</field>
+                      </block>
+                    </value>
+                    <value name="accidental">
+                      <block type="accidental" id="M%Uo=V48`UL2EU-(h1*v">
+                        <field name="value">0</field>
+                      </block>
+                    </value>
+                    <value name="octave">
+                      <block type="integer" id="?Bq3x]p#)gQN$}E^5*74">
+                        <field name="value">4</field>
+                      </block>
+                    </value>
+                    <value name="duration">
+                      <block type="noteDuration" id="T;{+N*Ch0+XV@F-R(.~w">
+                        <field name="value">2</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="play" id="guhGx$NwNSP}~egLiH;+">
+                        <value name="note">
+                          <block type="variableGetter" id=",R4H3yRI=)Ue*itBOdQ_">
+                            <mutation mode="value" identifier="winner" sourceblockid="undefined"></mutation>
+                          </block>
+                        </value>
+                        <value name="duration">
+                          <block type="noteDuration" id="-UFh1;}hh;s@2bs3C#uT">
+                            <field name="value">2</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="playScoreAndWait" id="Q1:Db*jH9!OpRhV/GuX*">
+                            <next>
+                              <block type="quiz" id="O),|_D`xJ`+q6O%tCbe#">
+                                <value name="message">
+                                  <block type="string" id="[0?Slj=NIZbWOl0v`IUq">
+                                    <field name="value">What interval do you hear?</field>
+                                  </block>
+                                </value>
+                                <value name="answer">
+                                  <block type="variableGetter" id="#Fksq*:HlXjSr4LN0egS">
+                                    <mutation mode="value" identifier="winner" sourceblockid="undefined"></mutation>
+                                  </block>
+                                </value>
+                                <value name="choices">
+                                  <block type="variableGetter" id="zi+VfrKK1r6LsJo~Jqat">
+                                    <mutation mode="value" identifier="intervals" sourceblockid="undefined"></mutation>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="showScore" id="F,)zl`$8,e77Y^elbd]I">
+                                    <next>
+                                      <block type="sleep" id="n-5oxf`q1YfTNLYYs@IY">
+                                        <value name="seconds">
+                                          <block type="real" id="-x=2I3@:8k4^j2lp0pKi">
+                                            <field name="value">1.5</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="waitForButton" id="dv$i8gra9B75/2Ia~7an">
+                                            <value name="message">
+                                              <block type="string" id="HN+:k=ClgMA2O1S!@Ti^">
+                                                <field name="value">Next</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="hideScore" id="/62OJ(ZObsY|tArflRv]">
+                                                <next>
+                                                  <block type="clearScore" id="}?oPEp$CD:R@[y;2Nu1t"></block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
