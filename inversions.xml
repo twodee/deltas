@@ -1,11 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="to" id="9?,nSrYHw+]sg(CyDb4}" x="-176" y="-1169">
     <mutation>
+      <identifier value="triad"></identifier>
       <parameters>
         <parameter identifier="root" mode="value"></parameter>
       </parameters>
     </mutation>
-    <field name="identifier">major chord</field>
+    <field name="identifier">triad</field>
     <value name="formal0">
       <block type="formalParameter" id="t?c7R8QuMt1md5vpIE3L" movable="false">
         <mutation mode="value"></mutation>
@@ -57,6 +58,7 @@
   </block>
   <block type="to" id="tG|),~pIbWg@%(F#RX$3" x="-172" y="-999">
     <mutation>
+      <identifier value="I"></identifier>
       <parameters></parameters>
     </mutation>
     <field name="identifier">I</field>
@@ -67,7 +69,7 @@
             <value name="chord">
               <block type="call" id="k8tCCiVbB5|B4*lX^}Oi">
                 <mutation mode="value">
-                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="major chord"></to>
+                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="triad"></to>
                   <parameters>
                     <parameter identifier="root" mode="value"></parameter>
                   </parameters>
@@ -100,6 +102,7 @@
   </block>
   <block type="to" id="jLtZXu(kQ+!gAe]p|1Hj" x="-168" y="-892">
     <mutation>
+      <identifier value="IV"></identifier>
       <parameters></parameters>
     </mutation>
     <field name="identifier">IV</field>
@@ -110,7 +113,7 @@
             <value name="chord">
               <block type="call" id="a5]~HK@M+MEK7yquzYSO">
                 <mutation mode="value">
-                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="major chord"></to>
+                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="triad"></to>
                   <parameters>
                     <parameter identifier="root" mode="value"></parameter>
                   </parameters>
@@ -143,6 +146,7 @@
   </block>
   <block type="to" id="3-kvR2qg`EqV-%WkjA[," x="-169" y="-779">
     <mutation>
+      <identifier value="V"></identifier>
       <parameters></parameters>
     </mutation>
     <field name="identifier">V</field>
@@ -153,7 +157,7 @@
             <value name="chord">
               <block type="call" id="R(/,M6l7=4C;9Kz^5[]$">
                 <mutation mode="value">
-                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="major chord"></to>
+                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="triad"></to>
                   <parameters>
                     <parameter identifier="root" mode="value"></parameter>
                   </parameters>
@@ -186,6 +190,7 @@
   </block>
   <block type="to" id="*snU)E70_RJcT],?PJ;=" x="-168" y="-670">
     <mutation>
+      <identifier value="vi"></identifier>
       <parameters></parameters>
     </mutation>
     <field name="identifier">vi</field>
@@ -196,7 +201,7 @@
             <value name="chord">
               <block type="call" id="1xO]Z82ajeMB~rL8}Lmx">
                 <mutation mode="value">
-                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="major chord"></to>
+                  <to id="9?,nSrYHw+]sg(CyDb4}" identifier="triad"></to>
                   <parameters>
                     <parameter identifier="root" mode="value"></parameter>
                   </parameters>
@@ -229,6 +234,7 @@
   </block>
   <block type="to" id="A6^s:odOZ!pdn(xk[}EA" x="-164" y="-539">
     <mutation>
+      <identifier value="chorder"></identifier>
       <parameters>
         <parameter identifier="c" mode="value"></parameter>
       </parameters>
@@ -249,7 +255,7 @@
         </value>
         <value name="duration">
           <block type="noteDuration" id="bkfH*M}@h22-|H=VTH8s">
-            <field name="value">2</field>
+            <field name="value">4</field>
           </block>
         </value>
       </block>
